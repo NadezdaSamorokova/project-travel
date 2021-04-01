@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    position: relative;
+    padding: 28px 0 56px;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-items: center;
+    box-sizing: border-box;
+}
+
+@media (max-width: 1024px) {
+    .header {
+        width: calc(100% - 96px);
+        padding-bottom: 48px;
+    }
+}
+
+@media (max-width: 768px) {
+    .header {
+        width: calc(100% - 48px);
+        padding: 28px 0 48px;
+    }
+}
+
+@media (max-width: 425px) {
+    .header {
+        width: calc(100% - 32px);
+        padding: 16px 0 48px;
+    }
+}

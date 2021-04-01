@@ -1,0 +1,22 @@
+.lead {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-content: center;
+    box-sizing: border-box;
+}
+
+@media (max-width: 1024px) {
+    .lead {
+        width: calc(100% - 96px);
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .lead {
+        width: 100%;
+        padding: 0;
+    }
+}
+

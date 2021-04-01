@@ -1,0 +1,12 @@
+.place__main-text {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-content: space-between;
+}
+
+@media (max-width: 425px) {
+    .place__main-text {
+        padding: 0 16px;
+    }
+}

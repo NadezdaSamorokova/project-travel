@@ -1,0 +1,11 @@
+.header__lang-link_active {
+    margin-right: 28px;
+    text-decoration: underline;
+}
+
+@media (max-width: 425px) {
+    .header__lang-link_active {
+        margin-right: 18px;
+        text-decoration: underline;
+    }
+}

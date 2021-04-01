@@ -1,0 +1,8 @@
+.link {
+    color: #FFFFFF;
+    transition-timing-function: ease;
+}
+
+.link:hover {
+    opacity: .3;
+  }
