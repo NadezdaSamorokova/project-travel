@@ -4,6 +4,7 @@
     flex-direction: column;
     align-content: center;
     box-sizing: border-box;
+    margin: 0 auto;
 }
 
 @media (max-width: 1024px) {
@@ -16,7 +17,6 @@
 @media (max-width: 768px) {
     .lead {
         width: 100%;
-        padding: 0;
     }
 }
 
