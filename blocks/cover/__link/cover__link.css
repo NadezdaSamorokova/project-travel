@@ -5,6 +5,7 @@
     padding: 245px 312px;
     background-image: url(../../../images/cover__background.png);
     background-size: cover;
+    background-position: center;
     color: inherit;
     z-index: 1;
   }
@@ -29,7 +30,6 @@
   @media (max-width: 1024px) {
     .cover__link {
       padding: 195px 232px;
-
     }
   }
 
@@ -39,9 +39,14 @@
     }
   }
 
+  @media (max-width: 680px) {
+    .cover__link {
+      padding: 100px 60px;
+    }
+  }
+
   @media (max-width: 425px) {
     .cover__link {
       padding: 33px 16px;
-
     }
   }
