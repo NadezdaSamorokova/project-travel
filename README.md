@@ -1,29 +1,34 @@
-# Путешествие по России
+# Project Travel
+## Yandex Practicum
 
-Проект разработан для изучения адаптивной вёрстки, преимущественно как брейкпоинты использованы разрешения 1280px, 1024px, 768px, 425px.
+[Project Travel] (https://nadezdasamorokova.github.io/project-travel/)
 
-## Проект содержит следующие папки и файлы:
+The project was developed to study responsive web design. The resolutions of 1280px, 1024px, 768px, 425px were used as main breakpoints.
 
-* blocks - все .css файлы необходимые для проекта, рассортированные по правилам Nested БЭМ
-* images - изображения, используемые для проекта
-* pages - основной файл .css с импортированными файлами из папки blocks
-* fonts - шрифты, используемые для проекта
-* vendor - код сторонних разработчиков, прописанный без использования классов, а также .css файл с шрифтами
-* index.html - структура страницы, основной код
-* README.md - этот файл
+### The project contains the following folders and files:
 
-## Технологии:
+* blocks - all .css files necessary for the project, sorted according to Nested BEM rules
+* images - images used for the project
+* pages - main .css file with imported files from blocks folder
+* fonts - fonts used for the project
+* vendor - third-party code written without using classes
+* index.html - page structure, main code
+* README.md - this file with the description
 
-* Flexbox-вёрстка
-* Грид-контейнер
-* Флекс-позиционирование
-* Семанитика HTML
+### Technologies:
+
+* Flexbox
+* Grid Layout
+* Semantic HTML
 * @media
+* @import
 
-## При разработке были использованы программы:
+### Programs used:
 
 * Visual Studio Code
 * Figma
 * Git Bush
 
-[Путешествие по России] (https://nadezdasamorokova.github.io/russian-travel/)
+### Link to a Figma-file:
+
+(https://www.figma.com/file/CQBHCtsItybxvK9NZxVQyR/Sprint-3_-Yandex?type=design&node-id=28503-0&mode=design)
