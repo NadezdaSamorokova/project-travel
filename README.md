@@ -27,7 +27,7 @@ This project was developed to study responsive web design. The resolutions of 12
 
 * Visual Studio Code
 * Figma
-* Git Bush
+* Git Bash
 
 ### Link to a Figma-file:
 
