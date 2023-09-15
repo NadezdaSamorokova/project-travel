@@ -3,7 +3,7 @@
 
 [Project Travel] (https://nadezdasamorokova.github.io/project-travel/)
 
-The project was developed to study responsive web design. The resolutions of 1280px, 1024px, 768px, 425px were used as main breakpoints.
+This project was developed to study responsive web design. The resolutions of 1280px, 1024px, 768px, 425px were used as main breakpoints.
 
 ### The project contains the following folders and files:
 
