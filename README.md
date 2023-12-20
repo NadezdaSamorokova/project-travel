@@ -1,4 +1,4 @@
-# Project Travel
+# Travel the Country
 ## Yandex Practicum
 
 [Project Travel] (https://nadezdasamorokova.github.io/project-travel/)
