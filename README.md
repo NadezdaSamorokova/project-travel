@@ -1,7 +1,7 @@
 # Travel the Country
 ## Yandex Practicum
 
-[Travel the Country] (https://nadezdasamorokova.github.io/project-travel/)
+[Travel the Country] (https://nadezdasamorokova.github.io/travel-the-country/)
 
 This project was developed to study responsive web design. The resolutions of 1280px, 1024px, 768px, 425px were used as main breakpoints.
 
